@@ -2,7 +2,7 @@
   "name": "Center",
   "short_name": "cntr",
   "icons": [{
-      "src": "https://drive.google.com/uc?id=1YYg2PKLYoVP89oCZKvZLo7iKkex1Phnt",
+      "src": "/s.png",
       "sizes": "144x144",
       "type": "image/png"
     }],
