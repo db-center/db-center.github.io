@@ -1,7 +1,8 @@
 var cacheName = 'center-sw';
 var filesToCache = [
   '/',
-  '/index.html'
+  '/index.html',
+  '/manifest.json'
 ];
 
 /* Start the service worker and cache all of the app's content */
